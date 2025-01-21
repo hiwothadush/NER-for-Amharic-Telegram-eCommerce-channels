@@ -1,0 +1,1 @@
+This repository contains scripts and data related to the fine-tuning of a Language Model (LLM) for Amharic Named Entity Recognition (NER). The project focuses on processing data collected from Telegram-based e-commerce channels in Ethiopia and involves labeling, tokenizing, and scrapping product names, prices, and locations.
